@@ -97,7 +97,7 @@ Web applications and browser-based experiences powered by machine learning or AI
 
 Projects that connect services, automate workflows, or react to events.
 
-- [barateza/dubweave](https://github.com/barateza/dubweave) `🐍` `🏠` `🔗` – Pipeline completo e local de dublagem de vídeos para português brasileiro com aceleração por GPU. **by [@barateza](https://github.com/barateza)**
+- [barateza/dubweave](https://github.com/barateza/dubweave) `🐍` `🏠` `🔗` – Complete and local video dubbing pipeline for Brazilian Portuguese with GPU acceleration. **by [@barateza](https://github.com/barateza)**
 
 - [mjunior/whatsapp-ai-pix-agent](https://github.com/mjunior/whatsapp-ai-pix-agent) `📇` `🔗` – An AI agent that charges my wife via PIX when she asks for favors on WhatsApp. **by [@mjunior](https://github.com/mjunior)**
 
